@@ -3,7 +3,7 @@ import prompt from "prompt-sync";
 
 const teclado = prompt();
 
-console.log('Criação de veículo');
+console.log('Concepção de veículo');
 const carro: Veiculo = criaVeiculo();
 
 while(true){
